@@ -1,3 +1,6 @@
 # Daew
 A discord bot for personal purposes.
-teste
+
+
+## Comando de inicio
+npm run start
