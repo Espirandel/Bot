@@ -1,10 +1,13 @@
 {
     "compilerOptions": {
-        "lib": ["ESNext"],
+        "rootDir": "./src",
+        "outDir": "./build",
+        "lib": [
+            "ESNext"
+        ],
         "module": "commonjs",
         "moduleResolution": "node",
         "target": "ESNext",
-        "outDir": "dist",
         "sourceMap": false,
         "esModuleInterop": true,
         "experimentalDecorators": true,
@@ -15,6 +18,12 @@
         "resolveJsonModule": true,
         "importHelpers": true
     },
-    "include": ["src", "environment.d.ts"],
-    "exclude": ["node_modules", "**/*.spec.ts"]
+    "include": [
+        "src",
+        "environment.d.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ]
 }
