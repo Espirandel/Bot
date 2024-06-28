@@ -1,8 +1,6 @@
-# About Daew ⚡
-[![Discord](https://skillicons.dev/icons?i=discord,typescript)](https://skillicons.dev) <br>
-
+# About Daew ⚡ [![Discord](https://skillicons.dev/icons?i=discord,typescript)](https://skillicons.dev) 
 A [Discord](https://discord.com/) bot for personal and study purposes. Built by [Laura](https://github.com/Espirandel) and [David](https://github.com/D3T3F) with [Typescript](https://www.typescriptlang.org/).
-
+<h2></h2>
 
 # Commands 🤖
 
