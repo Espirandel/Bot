@@ -1,5 +1,5 @@
 {
-  "name": "bot",
+  "name": "Bot",
   "version": "1.0.0",
   "description": "A discord bot for personal purposes.",
   "main": "src/index.ts",
