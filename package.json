@@ -1,5 +1,5 @@
 {
-  "name": "daew",
+  "name": "bot",
   "version": "1.0.0",
   "description": "A discord bot for personal purposes.",
   "main": "src/index.ts",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Espirandel/Daew.git"
+    "url": "git+https://github.com/Espirandel/Bot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Espirandel/Daew/issues"
+    "url": "https://github.com/Espirandel/Bot/issues"
   },
-  "homepage": "https://github.com/Espirandel/Daew#readme",
+  "homepage": "https://github.com/Espirandel/Bot#readme",
   "dependencies": {
     "discord.js": "^14.15.1",
     "dotenv": "^16.4.5",
